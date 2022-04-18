@@ -1,2 +1,2 @@
 # JStoDoList
-This is a JavaScript to do list for 
+This is a JavaScript to do list.
